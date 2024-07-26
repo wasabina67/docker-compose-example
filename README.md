@@ -8,7 +8,7 @@ docker-compose up -d
 ```
 
 ```bash
-docker exec -it docker-compose-example-app-1 sh
+docker exec -it docker-compose-example-app-1 bash
 ```
 
 ## Run
